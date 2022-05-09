@@ -11,7 +11,7 @@ Caso queira ver a lista em ordem alfabetica basta acessar o endereço:
 https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemAlfabetica
 
 Há também a possibilidade de ver a lista em ordem de preço crescente ou decrescente pelos links:
-https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemPrecoCrescente
+https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemPrecoCrescente<br>
 https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemPrecoDecrescente
 
 Para realizar a inserção de uma nova carta, basta utilizar algum software que seja possível enviar requisições no formato POST com o seguinte JSON a ser enviado para o endpoint da API. Segue exemplo de utilização com software POSTMAN:
