@@ -2,7 +2,7 @@
 
 Magic the Gathering API
 
-API criada para gravar coleção de cartas em um banco de dados.
+API criada para gravar coleção de cartas em um banco de dados utilizando java com spring boot com deploy realizado no heroku para tornar a api acessível para todos.
 
 Para ver a coleção já existente, basta acessar o seguinte endereço e a coleção será exibida em formato JSON por ordem de inserção no banco de dados:<br>
 https://mtgapizappts.herokuapp.com/mtgapi/cards/
