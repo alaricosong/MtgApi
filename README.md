@@ -4,13 +4,13 @@ Magic the Gathering API
 
 API criada para gravar coleção de cartas em um banco de dados.
 
-Para ver a coleção já existente, basta acessar o endereço abaixo e a coleção será exibida em formato JSON por ordem de inserção no banco de dados:
+Para ver a coleção já existente, basta acessar o seguinte endereço e a coleção será exibida em formato JSON por ordem de inserção no banco de dados:
 https://mtgapizappts.herokuapp.com/mtgapi/cards/
 
-Caso queira ver a lista em ordem alfabetica basta acessar o endereço abaixo:
+Caso queira ver a lista em ordem alfabetica basta acessar o endereço:
 https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemAlfabetica
 
-Há também a possibilidade de ver a lista em ordem de preço crescente ou decrescente pelos links abaixo:
+Há também a possibilidade de ver a lista em ordem de preço crescente ou decrescente pelos links:
 https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemPrecoCrescente
 https://mtgapizappts.herokuapp.com/mtgapi/cards/ordemPrecoDecrescente
 
