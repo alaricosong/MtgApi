@@ -18,5 +18,4 @@ Para realizar a inserção de uma nova carta, basta utilizar algum software que 
 ![image](https://user-images.githubusercontent.com/7890458/167462520-d8e70c81-39c2-4540-a69e-7debf06b605b.png)
 
 
-
-Alarico Song
+API criada por Alarico Song
